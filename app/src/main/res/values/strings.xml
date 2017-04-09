@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRAHackRedCute</string>
+    <string name="title_activity_main2">Safety devices</string>
+    <string name="error_deveui_length">DevEUI must be 16 characters long.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
